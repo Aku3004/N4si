@@ -7,10 +7,7 @@
 
 ---
 
-## 🚀 Connect with me:
-<p align="left">
-<!-- Add social links here if you want -->
-</p>
+
 
 ---
 
