@@ -5,12 +5,8 @@
 - 🤝 Goal: **Craft impactful full-stack apps & scale to startups**
 - 📫 Reach me at **gangwani.aakash30@gmail.com**
 
----
-
-
 
 ---
-
 
 
 ### 🧑‍💻 **Languages**
